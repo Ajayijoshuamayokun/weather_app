@@ -145,7 +145,7 @@ body{
 @media (max-width: 480px) {
     .search {
         justify-content: space-between;
-        gap: 20px;
+        gap: 10px;
     }
 
     .search input {
