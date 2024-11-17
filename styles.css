@@ -156,6 +156,10 @@ body{
         margin-bottom: 10px;
     }
 
+    .search button{
+        width: 20%;
+    }
+
     .weather h1 {
         font-size: 40px;
     }
