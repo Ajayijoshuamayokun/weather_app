@@ -151,7 +151,8 @@ body{
 
     .search input {
         width: 20%;
-        margin-right: 10px;
+        margin-right: 0;
+        margin-left: 20px;
         margin-bottom: 10px;
     }
 
