@@ -158,11 +158,12 @@ body{
     }
 
     .details {
-        margin-bottom: 10px;
+        
         flex-direction: column;
     }
 
     .humidity, .wind {
         font-size: 16px;
+        margin-bottom: 10px;
     }
 }
