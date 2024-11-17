@@ -134,6 +134,7 @@ body{
 
     .details {
         margin-top: 20px;
+        flex-direction: column;
     }
 
     .humidity, .wind {
@@ -154,6 +155,11 @@ body{
 
     .weather h1 {
         font-size: 40px;
+    }
+
+    .details {
+        
+        flex-direction: column;
     }
 
     .humidity, .wind {
