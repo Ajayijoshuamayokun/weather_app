@@ -144,14 +144,13 @@ body{
 
 @media (max-width: 480px) {
     .search {
-       
         justify-content: space-between;
-      
+        gap: 20px;
     }
 
     .search input {
         width: 20%;
-        margin-right: 20px;
+        margin-right: 0;
         margin-bottom: 10px;
     }
 
