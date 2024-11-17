@@ -145,6 +145,7 @@ body{
 @media (max-width: 480px) {
     .search {
         flex-direction: row;
+        justify-content: space-between;
     }
 
     .search input {
@@ -163,9 +164,9 @@ body{
     }
 
     .col{
-        margin-bottom: 10px;
+        margin-bottom: 20px;
     }
-    
+
     .humidity, .wind {
         font-size: 16px;
         
